@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ConversationsViewController.swift
 //  Tchat
 //
 //  Created by Yoan on 07/04/2023.
@@ -7,13 +7,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ConversationsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
 
+    }
+    
 
 }
-
